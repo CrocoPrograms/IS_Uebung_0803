@@ -1,0 +1,10 @@
+es ist egal, ob man "" oder '' macht
+
+2 Arten von arrays:
+prinzipiell: Datencontainer
+indexierung beginnend bei 0
+
+
+2 Möglichkeiten, zum array etwas hinzuzufügen: .push oder mit .length, siehe Übung 1503 in main.js zeile 61 und weiter oben
+
+Bei JSON entweder bei chrome über konsole/ JSOn formatter plugin siehe emma teams, oder firefox hinzufügen. 
